@@ -141,7 +141,7 @@ ul {
 
 .hero-img {
     height: 260px;
-    width: 500px;
+    width: 480px;
     border-radius: 25px;
 }
 
@@ -154,14 +154,16 @@ ul {
 }
 
 .header-logo-text {
-    margin-left: 135px;
     font-size: 24px;
     font-weight: bold;
     color: #f9faf8;
+    width: 410px;
+    text-align: center;
 }
 
 .header-link-text {
-    margin-right: 135px;
+    width: 350px;
+    text-align: center;
 }
 
 .hero-main-text {
